@@ -64,6 +64,10 @@ See [`sample-prompts.md`](./sample-prompts.md) for all journal entries that trig
 
 ---
 
+## Live Demo
+
+You can also see the live the demo by clicking this link [lifebook](https://life-book-sigma.vercel.app)
+
 ## 📂 Folder Structure
 
 ```
