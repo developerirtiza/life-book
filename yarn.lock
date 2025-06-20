@@ -40,10 +40,10 @@
   dependencies:
     storyblok-js-client "^5.14.2"
 
-"@storyblok/react@^2.4.7":
-  version "2.4.7"
-  resolved "https://registry.npmjs.org/@storyblok/react/-/react-2.4.7.tgz"
-  integrity sha512-maEEoupuLvKmxaZz1CFAn7jnNXL9y14zyr+9UqbP/btiahp9ZSX5JMuDRBRscfQ6UMjmbd+ijdnl1BgFkAZfwA==
+"@storyblok/react@^2.4.8":
+  version "2.4.8"
+  resolved "https://registry.npmjs.org/@storyblok/react/-/react-2.4.8.tgz"
+  integrity sha512-Rflvkadz1LzexEaKqNM1C4pWW3ojlNd6KqPe0n93CgCi9srA9kfwshY/H1GQYE9Q/KzmXwHxIYQivX7q4E7X2A==
   dependencies:
     "@storyblok/js" "^2.3.0"
 
@@ -540,6 +540,11 @@ storyblok-js-client@^5.14.2:
   version "5.14.4"
   resolved "https://registry.npmjs.org/storyblok-js-client/-/storyblok-js-client-5.14.4.tgz"
   integrity sha512-9yY33tvfO3Cbe25h/l6K0T3IxJeOOyGl/pCwsd55woT0ZEBhIiEZoMumpRsyLjD5AedW9KXLbLjMXhHazkepCA==
+
+storyblok-js-client@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.npmjs.org/storyblok-js-client/-/storyblok-js-client-7.0.1.tgz"
+  integrity sha512-U3qB7+MpKfWG7w7BD7nbdLz3JH985Q/sAxb4lVPZMRB9P5mW0lQelbLdehgQQVcaiNEy/3Oi9iQKojIPr0nEsg==
 
 styled-jsx@5.0.7:
   version "5.0.7"
